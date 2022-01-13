@@ -1,0 +1,22 @@
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url(images/pattern.jpg);
+}
+
+#brushes {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color:white;
+    background-color: mediumspringgreen;
+
+}
+
+#hacksawbrush {
+    font-weight: bold
+    font-size: 90px;
+} 
